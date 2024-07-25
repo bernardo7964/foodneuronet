@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDhn80byD69jCo4oexdKdkCHUgGw9nO6CM",
-  authDomain: "dubai4db.firebaseapp.com",
-  databaseURL: "https://dubai4db-default-rtdb.firebaseio.com",
-  projectId: "dubai4db",
-  storageBucket: "dubai4db.appspot.com",
-  messagingSenderId: "776520121975",
-  appId: "1:776520121975:web:248815949672b2c4371072"
+  apiKey: "AIzaSyApz23oRHUnByxOdbWt1-Gsuu3RC1A-u14",
+  authDomain: "dubai15db.firebaseapp.com",
+  databaseURL: "https://dubai15db-default-rtdb.firebaseio.com",
+  projectId: "dubai15db",
+  storageBucket: "dubai15db.appspot.com",
+  messagingSenderId: "829889877830",
+  appId: "1:829889877830:web:38f6c721c71ea78a57f747"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
