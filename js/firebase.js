@@ -1,4 +1,4 @@
-// Initialize Firebase
+// Initialize Firebase 
 const firebaseConfig = {
   apiKey: "AIzaSyApz23oRHUnByxOdbWt1-Gsuu3RC1A-u14",
   authDomain: "dubai15db.firebaseapp.com",
